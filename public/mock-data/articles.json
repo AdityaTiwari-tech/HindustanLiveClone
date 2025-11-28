@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "slug": "india-budget-2025",
+    "title": "India Budget 2025 Highlights",
+    "excerpt": "Key takeaways from the Finance Minister’s speech...",
+    "content": "<p>The budget focuses on infrastructure and digital growth...</p>",
+    "imageUrl": "/images/budget.jpg",
+    "publishedAt": "2025-11-27T07:10:00.000Z",
+    "category": "national"
+  },
+  {
+    "id": "2",
+    "slug": "sensex-hits-record-high",
+    "title": "Sensex Hits Record High Amid Global Rally",
+    "excerpt": "Indian markets surged as global investors poured in fresh capital...",
+    "content": "<p>Markets closed at all-time highs with banking and IT stocks leading the rally...</p>",
+    "imageUrl": "/images/markets.jpg",
+    "publishedAt": "2025-11-26T10:30:00.000Z",
+    "category": "business"
+  },
+  {
+    "id": "3",
+    "slug": "india-vs-australia-thriller",
+    "title": "India Clinches Thriller Against Australia",
+    "excerpt": "A nail-biting finish saw India edge past Australia in the final over...",
+    "content": "<p>Fans witnessed an electrifying match as India chased down 280 runs with two balls to spare...</p>",
+    "imageUrl": "/images/cricket.jpg",
+    "publishedAt": "2025-11-25T18:45:00.000Z",
+    "category": "cricket"
+  },
+
+    {
+    "id": "4",
+    "slug": "winter-fashion-trends-2025",
+    "title": "Top Winter Fashion Trends of 2025",
+    "excerpt": "From oversized coats to sustainable fabrics, here’s what’s hot this season...",
+    "content": "<p>Designers are embracing eco-friendly materials while keeping comfort at the forefront...</p>",
+    "imageUrl": "/images/fashion.jpg",
+    "publishedAt": "2025-11-24T09:00:00.000Z",
+    "category": "lifestyle"
+  },
+  {
+    "id": "5",
+    "slug": "ai-transforming-education",
+    "title": "AI Transforming Education in India",
+    "excerpt": "Schools and universities are adopting AI tools to personalize learning...",
+    "content": "<p>From adaptive assessments to smart tutoring, AI is reshaping classrooms across the country...</p>",
+    "imageUrl": "/images/education.jpg",
+    "publishedAt": "2025-11-23T12:15:00.000Z",
+    "category": "national"
+  }
+
+]
